@@ -31,17 +31,7 @@ The Snake Game is a classic arcade game where the player controls a snake to eat
 - The game will end when the snake collides with a wall or its own body.
 - After the game ends, a game over screen will be displayed, showing your final score.
 
-## Screenshots
 
-Include any relevant screenshots of your Snake Game in action or demonstrating specific features.
-
-## Contributing
-
-Contributions are welcome! If you find any issues or want to enhance the Snake Game, feel free to submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 
 
