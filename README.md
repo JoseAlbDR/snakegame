@@ -20,8 +20,9 @@ The Snake Game is a classic arcade game where the player controls a snake to eat
 ## Getting Started
 
 1. Clone the repository
-2. Navigate to the project directory
-3. Run the Snake Game
+-- git clone https://github.com/JoseAlbDR/snakegame
+3. Navigate to the project directory
+4. Run the Snake Game (main.py)
 
 ## How to Play
 
